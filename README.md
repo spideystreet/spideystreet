@@ -66,12 +66,12 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
   <img src="https://github-readme-stats.vercel.app/api?username=spideystreet&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideystreet&layout=compact&theme=radical" width="400">
 </p>
-
----
-
-### 🕸️ Contribution Grid Snake
 <p align="center">
-  <img src="https://github.com/spideystreet/spideystreet/blob/output/github-contribution-grid-snake.svg" width="700">
+  <i>Note : Ces statistiques ne prennent en compte que les dépôts publics</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spideystreet&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
 </p>
 
 ---
@@ -90,7 +90,3 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
 
 ### 🕷️ Fun Fact
 <i>Je grind la journée, je grind la nuit. 🕸️</i>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200">
-</p>
