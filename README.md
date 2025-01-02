@@ -31,7 +31,7 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
   <summary>⚙️ Back-End</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,nextjs,fastapi&perline=3" />
   </a>
 </details>
 
@@ -39,7 +39,7 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
   <summary>💾 Bases de données</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb&perline=3" />
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,snowflake&perline=3" />
   </a>
 </details>
 
