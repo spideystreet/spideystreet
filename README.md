@@ -57,9 +57,6 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=grafana,prometheus,vercel&perline=3" />
   </a>
-  <p>
-    ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-  </p>
 </details>
 
 ---
