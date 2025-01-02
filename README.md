@@ -19,28 +19,28 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
-![VueJS](https://img.shields.io/badge/Vue.js-3.x-green?style=flat-square&logo=vue.js)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-yellow?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=flat-square&logo=docker)
-![Airflow](https://img.shields.io/badge/Airflow-Pipeline-blue?style=flat-square&logo=apache-airflow)
-![GCP](https://img.shields.io/badge/GCP-Cloud-red?style=flat-square&logo=google-cloud)
-![Snowflake](https://img.shields.io/badge/Snowflake-DataWarehouse-blue?style=flat-square&logo=snowflake)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hicham-djebali&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-djebali&layout=compact&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=spideystreet&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideystreet&layout=compact&theme=radical" width="400">
 </p>
 
 ---
 
 ### 🕸️ Contribution Grid Snake
 <p align="center">
-  <img src="https://github.com/hicham-djebali/hicham-djebali/blob/output/github-contribution-grid-snake.svg" width="700">
+  <img src="https://github.com/spideystreet/spideystreet/blob/output/github-contribution-grid-snake.svg" width="700">
 </p>
 
 ---
