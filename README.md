@@ -54,8 +54,11 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
 <details open>
   <summary>🔧 Outils & Monitoring</summary>
   <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus,vercel&perline=3" />
+  </a>
   <p>
-    ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
   </p>
 </details>
 
