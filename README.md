@@ -1,5 +1,8 @@
 <h1 align="center">Hey, I'm Spidey! 🕸️</h1>
 
+### 🕷️
+<i>Je grind la journée, je grind la nuit. 🕸️</i>
+
 <p align="center">
   <i><b>"L'effort bat le talent quand le talent n'essaie pas"</b></i>
 </p>
@@ -10,10 +13,10 @@
 
 ---
 
-### 🚀 SaaS Builder | Full-Stack Dev | Python & VueJS Enthusiast
-**"Développeur du peuple, j'aime toucher à tout."**
+### 🚀 SaaS Builder | Full-Stack Dev
+**"Développeur du peuple, j'aime toucher et m'adapter à tout."**
 
-Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vous rendre service.
+Ici je conçois des outils SaaS et tout un tas de trucs sympa.
 
 ---
 
@@ -85,8 +88,3 @@ Je conçois et développe des outils SaaS et tout un tas de trucs. Mon but ? Vou
 ### 🎯 Objectifs 2025
 - Apprendre un maximum de technos.
 - Sortir mes SaaS en Build in Public.
-
----
-
-### 🕷️ Fun Fact
-<i>Je grind la journée, je grind la nuit. 🕸️</i>
