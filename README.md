@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Spidey! 🕸️</h1>
 
-### 🕷️
 <i>Je grind la journée, je grind la nuit. 🕸️</i>
 
 <p align="center">
