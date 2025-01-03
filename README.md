@@ -1,21 +1,24 @@
-<h1 align="center">Hey, I'm Spidey! 🕸️</h1>
+<h1 align="center">🕸️ Welcome to my SpiBase🕸️</h1>
 
-<i>Je grind la journée, je grind la nuit. 🕸️</i>
-
-<p align="center">
-  <i><b>"L'effort bat le talent quand le talent n'essaie pas"</b></i>
-</p>
+<i>Je grind la journée, je grind la nuit. 🕷️</i>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/sudjMoBDJ26W6VYGAd/giphy.gif?cid=ecf05e47tsdy5osax5gjtz9hpbi05az76gxkn5oea9jelrf8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 </p>
 
 ---
 
-### 🚀 SaaS Builder | Full-Stack Dev
-**"Développeur du peuple, j'aime toucher et m'adapter à tout."**
+### 🚀️ SaaS Builder | Full-Stack Dev
 
-Ici je conçois des outils SaaS et tout un tas de trucs sympa.
+🎯 **Développeur BI** dans un grand groupe.
+
+🎓 **Formation** : En Master 1 Data & autodidacte acharnée.
+
+🕸️ **Passion** : Créateur de SaaS / d'outils qui facilitent la vie de tous et sportif bien rôdé.
+
+🚀 **Objectif** : Devenir un développeur d'impact, capable de créer des solutions qualitatives qui comptent.
+
+📫 **Contact** : Envoyez-moi un message sur [Twitter](https://x.com/_doubleHH) ou [LinkedIn](https://www.linkedin.com/in/hicham-djebali-35bb271a2/).
 
 ---
 
@@ -65,11 +68,8 @@ Ici je conçois des outils SaaS et tout un tas de trucs sympa.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spideystreet&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideystreet&layout=compact&theme=radical" width="400">
-</p>
-<p align="center">
-  <i>Note : Ces statistiques ne prennent en compte que les dépôts publics</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=spideystreet&show_icons=true&theme=radical&count_private=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spideystreet&layout=compact&theme=radical&count_private=true" width="400">
 </p>
 
 <p align="center">
