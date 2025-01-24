@@ -8,19 +8,18 @@
 
 ---
 
-### 🚀️ SaaS Builder | Full-Stack Dev
+### 🚀️ Data analyst / Full-Stack Dev
 
 🎯 **Développeur BI** dans un grand groupe.
 
 🎓 **Formation** : En Master 1 Data & autodidacte acharné.
 
-🕸️ **Passion** : Créateur de SaaS / d'outils qui facilitent la vie de tous et sportif bien rôdé.
+🕸️ **Passion** : Créateur d'outils qui facilitent la vie de tous et sportif bien rôdé.
 
 🚀 **Objectif** : Devenir un développeur d'impact, capable de créer des solutions qualitatives qui comptent.
 
 
 ### 🔗 Let's Connect!
-- 🐦 Twitter : [@spideystreet](https://x.com/_doubleHH)  
 - 💼 LinkedIn : [Hicham Djebali](https://www.linkedin.com/in/hicham-djebali-35bb271a2/)
 
 ---
