@@ -10,17 +10,10 @@
 
 ### 🚀️ Data analyst / Full-Stack Dev
 
-🎯 **Développeur BI** dans un grand groupe.
-
+🎯 **Data Analyst BI** dans un grand groupe.
 🎓 **Formation** : En Master 1 Data & autodidacte acharné.
-
 🕸️ **Passion** : Créateur d'outils qui facilitent la vie de tous et sportif bien rôdé.
-
 🚀 **Objectif** : Devenir un développeur d'impact, capable de créer des solutions qualitatives qui comptent.
-
-
-### 🔗 Let's Connect!
-- 💼 LinkedIn : [Hicham Djebali](https://www.linkedin.com/in/hicham-djebali-35bb271a2/)
 
 ---
 
@@ -65,11 +58,3 @@
     <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=3" />
   </a>
 </details>
-
----
-
-### 🎯 Objectifs 2025
-- Développer ma brand.
-- Apprendre un maximum.
-- Sortir mes SaaS en Build In Public.
-- Réaliser des project en React/NextJS.
