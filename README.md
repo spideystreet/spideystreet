@@ -11,8 +11,11 @@
 ### 🚀️ Data analyst / Full-Stack Dev
 
 🎯 **Data Analyst BI** dans un grand groupe.
+
 🎓 **Formation** : En Master 1 Data & autodidacte acharné.
+
 🕸️ **Passion** : Créateur d'outils qui facilitent la vie de tous et sportif bien rôdé.
+
 🚀 **Objectif** : Devenir un développeur d'impact, capable de créer des solutions qualitatives qui comptent.
 
 ---
