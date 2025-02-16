@@ -26,7 +26,7 @@
   <summary>🎨 Front-End</summary>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,vercel&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vercel&perline=3" />
   </a>
 </details>
 
