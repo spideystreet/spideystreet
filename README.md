@@ -3,7 +3,7 @@
 <i>Je grind la journée, je grind la nuit.</i>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh2dWNpMXI4ZTQ2cjhma29obzA4NjRqdmw4cm40MnpqOTR0MG1hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeneyP7vrrZOA9y/giphy.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh2dWNpMXI4ZTQ2cjhma29obzA4NjRqdmw4cm40MnpqOTR0MG1hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeneyP7vrrZOA9y/giphy.gif" width="1000">
 </p>
 
 ---
