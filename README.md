@@ -78,9 +78,8 @@
 </td>
 <td>
 
-- 🛠️ **jobanalyzer** — smart analytics dashboard of IT job market : https://job-analyzer-six.vercel.app/home
-- 🛠️ **kaggle** — some kaggle projects related to the healthcare sector.   
-- 🛠️ **school projects** — some useful and cool projects related to my courses in AI.
+- 🛠️ **OpenSourceTogether** — collaborative development platform : To sum it up in one line, your project's core pledge is to foster an open, welcoming, diverse, inclusive, and healthy community where everyone can participate free from harassment, regardless of their personal characteristics or background.
+- 🛠️ **school projects** — some useful and cool projects related to my courses in Data/AI.
 
 </td>
 </tr>
