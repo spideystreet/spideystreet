@@ -1,5 +1,4 @@
-<img width="8257" height="4650" alt="Group 127 (2)" src="https://github.com/user-attachments/assets/d1f49822-4f0a-4873-a28f-0297eae03a04" />
-
+<img width="100%" alt="Group 127 (1)" src="https://github.com/user-attachments/assets/7ae39297-f3f7-46f9-8a13-c8850d271017" />
 
 &nbsp;&nbsp;&nbsp;
 
@@ -17,11 +16,10 @@ Here you can see about all my activity (even privates !)<br>
 <table>
   <tr>
     <td width="50%" height="100%" align="center">
-      <img src="https://github.com/user-attachments/assets/cb4a4412-e231-41ee-905c-4a75237f8518" alt="yuji-modulo" style="width:100%; max-width:400px;" />
+      <img src="https://github.com/user-attachments/assets/9195a841-0fc9-440a-93e8-70d25e75feb4" alt="yuji-modulo" style="width:100%; max-width:400px;" />
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
     </td>
   </tr>
 </table>
-
