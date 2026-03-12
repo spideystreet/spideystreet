@@ -18,3 +18,4 @@ jobs:
           plugin_languages: yes
           plugin_topics: yes
           plugin_followup: yes
+          repositories_affiliations: owner, collaborator, organization_member
