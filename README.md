@@ -16,7 +16,7 @@ Here you can see about all my activity (even privates !)<br>
 <table>
   <tr>
     <td width="50%" height="100%" align="center">
-      <img src="https://github.com/user-attachments/assets/9195a841-0fc9-440a-93e8-70d25e75feb4" alt="yuji-modulo" style="width:100%; max-width:400px;" />
+      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" alt="epic-gojo" style="width:100%; max-width:400px;" />
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
