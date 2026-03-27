@@ -1,4 +1,8 @@
-<img width="8681" height="4143" alt="kawai-gojo" src="https://github.com/user-attachments/assets/a025322a-83de-4150-b4e8-20f91c570841" />
+<img width="100%" alt="spidey" src="https://github.com/user-attachments/assets/c11c66ac-1eaf-415d-8a23-7ef5e38c6a9d" />
+
+&nbsp;&nbsp;&nbsp;
+
+<img width="100%" alt="terminal" src="https://github.com/user-attachments/assets/b1474d9e-4d60-417a-9a76-6486a314cd31" />
 
 &nbsp;&nbsp;&nbsp;
 
@@ -13,13 +17,6 @@ Here you can see about all my activity (even privates !)<br>
 
 &nbsp;&nbsp;&nbsp;
 
-<table>
-  <tr>
-    <td width="50%" height="100%" align="center">
-      <img src="https://github.com/user-attachments/assets/a4bdfdfe-cd26-42ad-8a19-79e412b464f0" alt="epic-gojo" style="width:100%; max-width:400px;" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" />
+</p>

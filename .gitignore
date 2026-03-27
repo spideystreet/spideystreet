@@ -1,0 +1,11 @@
+# you weren't supposed to see this file
+# go touch some grass bro
+
+# Local assets & build artifacts
+*.gif
+*.png
+!.github/**/*.svg
+fonts/
+frames/
+.venv/
+main.py
