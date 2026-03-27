@@ -3,9 +3,12 @@
 
 # Local assets & build artifacts
 *.gif
+!banner-dark.gif
+!output.gif
 *.png
 !.github/**/*.svg
 fonts/
 frames/
 .venv/
 main.py
+.env

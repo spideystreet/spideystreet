@@ -1,4 +1,4 @@
-<img width="100%" alt="spidey" src="https://github.com/user-attachments/assets/037de81c-f815-4315-a1ad-7398f646f188" />
+<img width="100%" alt="spidey" src="banner-dark.gif" />
 
 &nbsp;&nbsp;&nbsp;
 
