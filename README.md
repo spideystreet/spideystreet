@@ -1,8 +1,8 @@
-<img width="100%" alt="spidey" src="banner-dark.gif" />
+<img width="100%" alt="spidey" src="https://github.com/user-attachments/assets/c11c66ac-1eaf-415d-8a23-7ef5e38c6a9d" />
 
 &nbsp;&nbsp;&nbsp;
 
-<img width="100%" alt="terminal" src="output.gif" />
+<img width="100%" alt="terminal" src="https://github.com/user-attachments/assets/b1474d9e-4d60-417a-9a76-6486a314cd31" />
 
 &nbsp;&nbsp;&nbsp;
 

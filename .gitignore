@@ -1,0 +1,9 @@
+
+# Local assets & build artifacts
+*.gif
+*.png
+!.github/**/*.svg
+fonts/
+frames/
+.venv/
+main.py
