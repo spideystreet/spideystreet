@@ -17,10 +17,6 @@ Here you can see about all my activity (even privates !)<br>
 
 &nbsp;&nbsp;&nbsp;
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" style="width:100%; max-width:400px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" />
+</p>
