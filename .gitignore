@@ -7,6 +7,7 @@
 !output.gif
 *.png
 !yujimodulo.png
+!gojo-glasses-labeled.png
 !.github/**/*.svg
 fonts/
 frames/
