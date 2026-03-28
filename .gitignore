@@ -4,7 +4,6 @@
 # Generated assets
 *.gif
 *.png
-!banner-dark.gif
 !output.gif
 !yujimodulo.png
 !gojo-glasses-labeled.png
