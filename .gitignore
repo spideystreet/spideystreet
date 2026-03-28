@@ -13,4 +13,6 @@ fonts/
 frames/
 .venv/
 main.py
+add_label.py
+glitch_toji.py
 .env
