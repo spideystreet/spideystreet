@@ -113,7 +113,17 @@ def main():
     # Hold final frame
     t.gen_text("", t.curr_row, count=1, contin=True)
 
-    t.gen_gif()
+    # Generate GIF with no loop (play once, freeze on last frame)
+    import os
+    fps = t._Terminal__fps
+    frame_count = t._Terminal__frame_count
+    os.system(
+        f"ffmpeg -hide_banner -loglevel error -y -r {fps} "
+        f"-i './frames/frame_%d.png' "
+        f"-filter_complex '[0:v] split [a][b];[a] palettegen [p];[b][p] paletteuse' "
+        f"-loop -1 output.gif"
+    )
+    print(f"INFO: Generated output.gif approximately {round(frame_count / fps, 2)}s long (no loop)")
 
 
 if __name__ == "__main__":
