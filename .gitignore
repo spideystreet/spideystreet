@@ -12,5 +12,5 @@
 fonts/
 frames/
 .venv/
-# main.py
+main.py
 .env
