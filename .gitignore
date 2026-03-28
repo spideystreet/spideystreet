@@ -1,18 +1,24 @@
 # you weren't supposed to see this file
 # go touch some grass bro
 
-# Local assets & build artifacts
+# Generated assets
 *.gif
+*.png
 !banner-dark.gif
 !output.gif
-*.png
 !yujimodulo.png
 !gojo-glasses-labeled.png
 !.github/**/*.svg
-fonts/
-frames/
-.venv/
+
+# Local scripts (GIF/image generation)
 main.py
 add_label.py
 glitch_toji.py
+
+# Build artifacts
+fonts/
+frames/
+
+# Environment
+.venv/
 .env
