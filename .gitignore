@@ -6,6 +6,7 @@
 !banner-dark.gif
 !output.gif
 *.png
+!yujimodulo.png
 !.github/**/*.svg
 fonts/
 frames/

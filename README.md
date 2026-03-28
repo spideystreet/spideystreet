@@ -6,6 +6,8 @@
   <tr>
     <td width="50%" valign="top">
       <img width="100%" alt="terminal" src="output.gif" />
+      <br>
+      <img width="100%" alt="yuji" src="yujimodulo.png" />
     </td>
     <td width="50%" valign="top">
       <img width="100%" alt="metrics" src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" />
