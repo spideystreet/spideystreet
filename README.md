@@ -2,7 +2,16 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<img width="100%" alt="terminal" src="https://github.com/user-attachments/assets/b1474d9e-4d60-417a-9a76-6486a314cd31" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" alt="terminal" src="output.gif" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" alt="metrics" src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" />
+    </td>
+  </tr>
+</table>
 
 &nbsp;&nbsp;&nbsp;
 
@@ -13,10 +22,4 @@ Here you can see about all my activity (even privates !)<br>
     Because i'm working on some cool top-secret stuff (¬‿¬)
   </span>
 </blockquote>
-</p>
-
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-  <img width="100%" src="https://github.com/spideystreet/spideystreet/raw/main/.github/output/metrics.classic.svg" alt="Metrics" />
 </p>
