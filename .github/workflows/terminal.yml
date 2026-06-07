@@ -1,0 +1,41 @@
+name: Terminal GIF
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+jobs:
+  regenerate-terminal-gif:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt
+
+      - name: Restore fonts from git history
+        run: git checkout 155f9a40^ -- fonts/
+
+      - name: Generate terminal GIF
+        run: python main.py
+
+      - name: Commit updated GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output.gif
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(terminal): refresh uptime in output.gif"
+            git push
+          fi

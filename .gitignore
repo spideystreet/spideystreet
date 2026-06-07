@@ -10,7 +10,7 @@
 !.github/**/*.svg
 
 # Local scripts (GIF/image generation)
-main.py
+!main.py
 add_label.py
 glitch_toji.py
 
