@@ -86,7 +86,7 @@ def main():
 
     \x1b[30;101mSetup:\x1b[0m
     --------------
-    \x1b[96mDaily:   \x1b[93mMacBook Air M3 16GB/512GB\x1b[0m
+    \x1b[96mDaily:   \x1b[93mMacBook Pro M5 24GB/1TB\x1b[0m
     \x1b[96mRemote:  \x1b[93mMac Mini M4 16GB/512GB\x1b[0m
     \x1b[96mNetwork: \x1b[93mSosh Orange Fiber 8 Gb/s\x1b[0m
     """
